@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T23:39:00.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ynSdzVSAoDv_GYvM4U5M" version="14.9.6" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-08-17T23:59:33.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="k9iIgoNw6sO5xMspTCvT" version="14.9.6" type="github" pages="17">
   <diagram id="24E1dRkqsLulDQxmK-Ek" name="Page-3">
     <mxGraphModel dx="1186" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HTwEEvRbIkjddWU1QSHY-0" />
         <mxCell id="HTwEEvRbIkjddWU1QSHY-1" parent="HTwEEvRbIkjddWU1QSHY-0" />
-        <mxCell id="HTwEEvRbIkjddWU1QSHY-2" value="Request 1&lt;br&gt;Oklahoma" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="HTwEEvRbIkjddWU1QSHY-1" vertex="1">
+        <mxCell id="HTwEEvRbIkjddWU1QSHY-2" value="Bryan&#39;s Iphone in Oklahoma&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="HTwEEvRbIkjddWU1QSHY-1" vertex="1">
           <mxGeometry x="40" y="-1040" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HTwEEvRbIkjddWU1QSHY-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fastly_logo.svg/1200px-Fastly_logo.svg.png;" parent="HTwEEvRbIkjddWU1QSHY-1" vertex="1">
           <mxGeometry x="579.9999999999999" y="-1020" width="219.29" height="88.13" as="geometry" />
         </mxCell>
-        <mxCell id="HTwEEvRbIkjddWU1QSHY-11" value="First Client Requests Podcast Show 1 in Oklahoma" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1.013;exitY=0.125;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;exitPerimeter=0;" parent="HTwEEvRbIkjddWU1QSHY-1" source="HTwEEvRbIkjddWU1QSHY-2" target="HTwEEvRbIkjddWU1QSHY-3" edge="1">
+        <mxCell id="HTwEEvRbIkjddWU1QSHY-11" value="First Client Requests Podcast Show 1 from Oklahoma" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1.013;exitY=0.125;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;exitPerimeter=0;" parent="HTwEEvRbIkjddWU1QSHY-1" source="HTwEEvRbIkjddWU1QSHY-2" target="HTwEEvRbIkjddWU1QSHY-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="330" as="sourcePoint" />
             <mxPoint x="600" y="280" as="targetPoint" />
@@ -36,7 +36,7 @@
         <mxCell id="to6AluDyOJK6Q8qXa_EJ-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/25-free-ui-icons/40/microphone_retro-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="to6AluDyOJK6Q8qXa_EJ-1" vertex="1">
           <mxGeometry x="51.75" y="-660" width="136.5" height="136.5" as="geometry" />
         </mxCell>
-        <mxCell id="to6AluDyOJK6Q8qXa_EJ-7" value="There&#39;s no Show 1 so the request gets sent to origin" style="endArrow=none;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;endFill=0;" parent="to6AluDyOJK6Q8qXa_EJ-1" source="to6AluDyOJK6Q8qXa_EJ-4" target="to6AluDyOJK6Q8qXa_EJ-8" edge="1">
+        <mxCell id="to6AluDyOJK6Q8qXa_EJ-7" value="There&#39;s no Show 1 so the request gets sent to the podcast api" style="endArrow=none;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;endFill=0;" parent="to6AluDyOJK6Q8qXa_EJ-1" source="to6AluDyOJK6Q8qXa_EJ-4" target="to6AluDyOJK6Q8qXa_EJ-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="320" as="sourcePoint" />
             <mxPoint x="385.90909090909076" y="560" as="targetPoint" />
@@ -46,7 +46,7 @@
         <mxCell id="to6AluDyOJK6Q8qXa_EJ-8" value="CDN POP&lt;br&gt;TEXAS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/customicondesign-state-png/128/Texas-Flag.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" parent="to6AluDyOJK6Q8qXa_EJ-1" vertex="1">
           <mxGeometry x="500" y="-760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="to6AluDyOJK6Q8qXa_EJ-9" value="Fastly Routes the first and &lt;br&gt;second requests&lt;br&gt;&amp;nbsp;to the same CDN POP&lt;br&gt;&amp;nbsp;to see if it has a fresh&lt;br&gt;&amp;nbsp;version of Show 1" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;" parent="to6AluDyOJK6Q8qXa_EJ-1" source="to6AluDyOJK6Q8qXa_EJ-3" target="to6AluDyOJK6Q8qXa_EJ-8" edge="1">
+        <mxCell id="to6AluDyOJK6Q8qXa_EJ-9" value="Fastly Routes the request&lt;br&gt;&amp;nbsp;to a close CDN POP&lt;br&gt;&amp;nbsp;to see if it has a fresh&lt;br&gt;&amp;nbsp;version of Show 1" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;" parent="to6AluDyOJK6Q8qXa_EJ-1" source="to6AluDyOJK6Q8qXa_EJ-3" target="to6AluDyOJK6Q8qXa_EJ-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="550" as="sourcePoint" />
             <mxPoint x="590" y="500" as="targetPoint" />
@@ -96,7 +96,7 @@
             <mxPoint x="600" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JkuhKd_b4ETnx8zUXtX-13" value="The API checks if it has &lt;br&gt;Show 1 and updates cache &lt;br&gt;with the db response" style="endArrow=classic;startArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="-JkuhKd_b4ETnx8zUXtX-1" source="-JkuhKd_b4ETnx8zUXtX-4" edge="1">
+        <mxCell id="-JkuhKd_b4ETnx8zUXtX-13" value="The API checks if it has &lt;br&gt;Show 1 and doesn&#39;t find it in Memcached" style="endArrow=classic;startArrow=none;html=1;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startFill=0;" parent="-JkuhKd_b4ETnx8zUXtX-1" source="-JkuhKd_b4ETnx8zUXtX-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="550" as="sourcePoint" />
             <mxPoint x="690" y="-641.9354838709678" as="targetPoint" />
@@ -114,6 +114,9 @@
             <mxPoint x="500" y="-714.2857142857142" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ri1jGXLCDALVMizuGAqb-0" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiNENTAwMDAiIGQ9Ik0yNCw2QzE0LjEsNiw2LDE0LjEsNiwyNHM4LjEsMTgsMTgsMThzMTgtOC4xLDE4LTE4UzMzLjksNiwyNCw2eiBNMjQsMTBjMy4xLDAsNiwxLjEsOC40LDIuOEwxMi44LDMyLjQgQzExLjEsMzAsMTAsMjcuMSwxMCwyNEMxMCwxNi4zLDE2LjMsMTAsMjQsMTB6IE0yNCwzOGMtMy4xLDAtNi0xLjEtOC40LTIuOGwxOS42LTE5LjZDMzYuOSwxOCwzOCwyMC45LDM4LDI0QzM4LDMxLjcsMzEuNywzOCwyNCwzOCB6Ii8+JiN4YTs8L3N2Zz4=;labelBackgroundColor=#FF9999;" vertex="1" parent="-JkuhKd_b4ETnx8zUXtX-1">
+          <mxGeometry x="688.5" y="-740" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -153,24 +156,26 @@
             <mxPoint x="600" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vv4MAona1lm5qlVPzmVd-10" value="For the First request After not finding Show 1 in &lt;br&gt;memcache the api queries the database and updates memcache" style="endArrow=classic;html=1;exitX=-0.02;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=1;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" parent="nOxLdjmfhQCN0bSjHRJ1-1" source="Vv4MAona1lm5qlVPzmVd-3" target="Vv4MAona1lm5qlVPzmVd-2" edge="1">
+        <mxCell id="Vv4MAona1lm5qlVPzmVd-10" value="The API then checks the database and finds Show 1" style="endArrow=classic;html=1;exitX=-0.02;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=1;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" parent="nOxLdjmfhQCN0bSjHRJ1-1" source="Vv4MAona1lm5qlVPzmVd-3" target="Vv4MAona1lm5qlVPzmVd-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="780" as="sourcePoint" />
             <mxPoint x="620" y="730" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vv4MAona1lm5qlVPzmVd-11" value="" style="endArrow=classic;startArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="nOxLdjmfhQCN0bSjHRJ1-1" source="Vv4MAona1lm5qlVPzmVd-2" target="Vv4MAona1lm5qlVPzmVd-12" edge="1">
+        <mxCell id="Vv4MAona1lm5qlVPzmVd-11" value="" style="endArrow=classic;startArrow=none;html=1;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startFill=0;" parent="nOxLdjmfhQCN0bSjHRJ1-1" source="Vv4MAona1lm5qlVPzmVd-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="550" as="sourcePoint" />
-            <mxPoint x="470" y="760" as="targetPoint" />
+            <mxPoint x="690" y="-641.9354838709678" as="targetPoint" />
             <Array as="points">
               <mxPoint x="630" y="-610" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vv4MAona1lm5qlVPzmVd-12" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiNENTAwMDAiIGQ9Ik0yNCw2QzE0LjEsNiw2LDE0LjEsNiwyNHM4LjEsMTgsMTgsMThzMTgtOC4xLDE4LTE4UzMzLjksNiwyNCw2eiBNMjQsMTBjMy4xLDAsNiwxLjEsOC40LDIuOEwxMi44LDMyLjQgQzExLjEsMzAsMTAsMjcuMSwxMCwyNEMxMCwxNi4zLDE2LjMsMTAsMjQsMTB6IE0yNCwzOGMtMy4xLDAtNi0xLjEtOC40LTIuOGwxOS42LTE5LjZDMzYuOSwxOCwzOCwyMC45LDM4LDI0QzM4LDMxLjcsMzEuNywzOCwyNCwzOCB6Ii8+JiN4YTs8L3N2Zz4=;labelBackgroundColor=#FF9999;" parent="nOxLdjmfhQCN0bSjHRJ1-1" vertex="1">
-          <mxGeometry x="690" y="-740" width="128" height="128" as="geometry" />
+        <mxCell id="8RP5rYU2ssoiH-H9nDf6-0" value="The API adds Show 1 to Memcached" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vv4MAona1lm5qlVPzmVd-11">
+          <mxGeometry x="0.0189" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vv4MAona1lm5qlVPzmVd-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/customicondesign-state-png/128/Oklahoma-Flag.png" parent="nOxLdjmfhQCN0bSjHRJ1-1" vertex="1">
           <mxGeometry x="330" y="-1004" width="128" height="128" as="geometry" />
@@ -268,14 +273,14 @@
         <mxCell id="HnWsbGuGJy7ydUbKZSCY-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fastly_logo.svg/1200px-Fastly_logo.svg.png;" vertex="1" parent="HnWsbGuGJy7ydUbKZSCY-1">
           <mxGeometry x="579.9999999999999" y="-980" width="219.29" height="88.13" as="geometry" />
         </mxCell>
-        <mxCell id="HnWsbGuGJy7ydUbKZSCY-5" value="Second Client requests Podcast Show 1 in Arkansas" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;shape=flexArrow;exitPerimeter=0;" edge="1" parent="HnWsbGuGJy7ydUbKZSCY-1" source="HnWsbGuGJy7ydUbKZSCY-7" target="HnWsbGuGJy7ydUbKZSCY-2">
+        <mxCell id="HnWsbGuGJy7ydUbKZSCY-5" value="Second Client requests Podcast Show 1 from Arkansas" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;shape=flexArrow;exitPerimeter=0;" edge="1" parent="HnWsbGuGJy7ydUbKZSCY-1" source="HnWsbGuGJy7ydUbKZSCY-7" target="HnWsbGuGJy7ydUbKZSCY-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="-935.9299999999998" as="sourcePoint" />
             <mxPoint x="600" y="280" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HnWsbGuGJy7ydUbKZSCY-7" value="Request 2&lt;br&gt;Arkansas" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone;labelBackgroundColor=#FF9999;" vertex="1" parent="HnWsbGuGJy7ydUbKZSCY-1">
+        <mxCell id="HnWsbGuGJy7ydUbKZSCY-7" value="Casey&#39;s Google Nexus&lt;br&gt;in Arkansas" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone;labelBackgroundColor=#FF9999;" vertex="1" parent="HnWsbGuGJy7ydUbKZSCY-1">
           <mxGeometry x="50" y="-1010" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HnWsbGuGJy7ydUbKZSCY-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/customicondesign-state-png/128/Arkansas-Flag.png" vertex="1" parent="HnWsbGuGJy7ydUbKZSCY-1">
@@ -295,7 +300,7 @@
         <mxCell id="5_vhTTEVgsrwI-1foePT-3" value="CDN POP&lt;br&gt;TEXAS" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/customicondesign-state-png/128/Texas-Flag.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="5_vhTTEVgsrwI-1foePT-1">
           <mxGeometry x="410" y="-730" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5_vhTTEVgsrwI-1foePT-4" value="The Client is served Show 1 from the CDN POP&lt;br&gt;since the TTL has not elapsed" style="shape=flexArrow;endArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0.99;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="5_vhTTEVgsrwI-1foePT-1" source="5_vhTTEVgsrwI-1foePT-3" target="5_vhTTEVgsrwI-1foePT-7">
+        <mxCell id="5_vhTTEVgsrwI-1foePT-4" value="The Client is served Show 1 from the same CDN POP&lt;br&gt;since the TTL has not elapsed and it had a cached fresh version" style="shape=flexArrow;endArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0.99;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="5_vhTTEVgsrwI-1foePT-1" source="5_vhTTEVgsrwI-1foePT-3" target="5_vhTTEVgsrwI-1foePT-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="480" as="sourcePoint" />
             <mxPoint x="140" y="-908.8693735772301" as="targetPoint" />
@@ -344,7 +349,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vxM5E7zM8nhImkZkrKFT-13" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_windows_phone_standalone;labelBackgroundColor=#FF9999;" vertex="1" parent="vxM5E7zM8nhImkZkrKFT-1">
+        <mxCell id="vxM5E7zM8nhImkZkrKFT-13" value="Dami&#39;s Samsung&lt;br&gt;Galaxy Tab 29 in Nigeria&amp;nbsp;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_windows_phone_standalone;labelBackgroundColor=#FF9999;" vertex="1" parent="vxM5E7zM8nhImkZkrKFT-1">
           <mxGeometry x="30" y="-1141" width="104" height="150" as="geometry" />
         </mxCell>
         <mxCell id="vxM5E7zM8nhImkZkrKFT-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-nigeria2x.png" vertex="1" parent="vxM5E7zM8nhImkZkrKFT-1">
@@ -371,7 +376,7 @@
         <mxCell id="3yh2DF_IZyJEO7PhI-vu-6" value="CDN POP&lt;br&gt;Madagascar" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ensign-11/512/158_Ensign_Flag_Nation_madagascar-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="8HlKm_ycB5RNYgiEztQH-1">
           <mxGeometry x="360" y="-940" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3yh2DF_IZyJEO7PhI-vu-7" value="Fastly Routes the Third and fourth&lt;br&gt;request to a different&lt;br&gt;CDN POP that is close&lt;br&gt;to them" style="endArrow=classic;html=1;exitX=0.922;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0.95;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8HlKm_ycB5RNYgiEztQH-1" source="3yh2DF_IZyJEO7PhI-vu-0" target="3yh2DF_IZyJEO7PhI-vu-6">
+        <mxCell id="3yh2DF_IZyJEO7PhI-vu-7" value="Fastly Routes the Third&lt;br&gt;request to a different&lt;br&gt;CDN POP that is close&lt;br&gt;to them" style="endArrow=classic;html=1;exitX=0.922;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0.95;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8HlKm_ycB5RNYgiEztQH-1" source="3yh2DF_IZyJEO7PhI-vu-0" target="3yh2DF_IZyJEO7PhI-vu-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="550" as="sourcePoint" />
             <mxPoint x="590" y="500" as="targetPoint" />
@@ -403,14 +408,14 @@
         <mxCell id="684cWzZm0ftLuPSwcbaa-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/25-free-ui-icons/40/microphone_retro-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="684cWzZm0ftLuPSwcbaa-1">
           <mxGeometry x="40" y="-650" width="136.5" height="136.5" as="geometry" />
         </mxCell>
-        <mxCell id="684cWzZm0ftLuPSwcbaa-5" value="There&#39;s no Fresh version of Show 1 &lt;br&gt;so the request gets sent to origin &lt;br&gt;but the CDN POP will have a fresh&lt;br&gt;&amp;nbsp;copy for the next close client with its own TTL in cache-control&lt;br&gt;and last-modified-since" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="684cWzZm0ftLuPSwcbaa-1" source="684cWzZm0ftLuPSwcbaa-8" target="684cWzZm0ftLuPSwcbaa-3">
+        <mxCell id="684cWzZm0ftLuPSwcbaa-5" value="There&#39;s no Show 1 at this CDN POP&lt;br&gt;so the request gets sent to origin &lt;br&gt;" style="endArrow=block;startArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;endFill=0;startFill=0;" edge="1" parent="684cWzZm0ftLuPSwcbaa-1" source="684cWzZm0ftLuPSwcbaa-8" target="684cWzZm0ftLuPSwcbaa-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="856.5214025245441" y="560" as="sourcePoint" />
             <mxPoint x="630" y="270" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="684cWzZm0ftLuPSwcbaa-6" value="Third Client requests Podcast Show 1 in Llagos&lt;br&gt;" style="endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="684cWzZm0ftLuPSwcbaa-1" source="684cWzZm0ftLuPSwcbaa-13" target="684cWzZm0ftLuPSwcbaa-2">
+        <mxCell id="684cWzZm0ftLuPSwcbaa-6" value="" style="endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="684cWzZm0ftLuPSwcbaa-1" source="684cWzZm0ftLuPSwcbaa-13" target="684cWzZm0ftLuPSwcbaa-2">
           <mxGeometry x="-0.0084" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="-980" as="sourcePoint" />
             <mxPoint x="740" y="390" as="targetPoint" />
@@ -420,7 +425,7 @@
         <mxCell id="684cWzZm0ftLuPSwcbaa-8" value="CDN POP&lt;br&gt;Madagascar" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ensign-11/512/158_Ensign_Flag_Nation_madagascar-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="684cWzZm0ftLuPSwcbaa-1">
           <mxGeometry x="360" y="-940" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="684cWzZm0ftLuPSwcbaa-9" value="Fastly Routes the Third and fourth&lt;br&gt;request to a different&lt;br&gt;CDN POP that is close&lt;br&gt;to them" style="endArrow=classic;html=1;exitX=0.922;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0.95;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="684cWzZm0ftLuPSwcbaa-1" source="684cWzZm0ftLuPSwcbaa-2" target="684cWzZm0ftLuPSwcbaa-8">
+        <mxCell id="684cWzZm0ftLuPSwcbaa-9" value="" style="endArrow=classic;html=1;exitX=0.922;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0.95;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="684cWzZm0ftLuPSwcbaa-1" source="684cWzZm0ftLuPSwcbaa-2" target="684cWzZm0ftLuPSwcbaa-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="550" as="sourcePoint" />
             <mxPoint x="590" y="500" as="targetPoint" />
@@ -449,7 +454,7 @@
         <mxCell id="ruxRNCLhquOL4VZM6oj1-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://static.javatpoint.com/tutorial/memcached/images/memcached-tutorial.png;" vertex="1" parent="Y_DgpOGIuvlljpGqcfn1-1">
           <mxGeometry x="464.88" y="-638.5" width="125" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="ruxRNCLhquOL4VZM6oj1-3" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="Y_DgpOGIuvlljpGqcfn1-1" source="ruxRNCLhquOL4VZM6oj1-6" target="ruxRNCLhquOL4VZM6oj1-1">
+        <mxCell id="ruxRNCLhquOL4VZM6oj1-3" value="" style="endArrow=block;startArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;endFill=0;startFill=0;" edge="1" parent="Y_DgpOGIuvlljpGqcfn1-1" source="ruxRNCLhquOL4VZM6oj1-6" target="ruxRNCLhquOL4VZM6oj1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="856.5214025245441" y="560" as="sourcePoint" />
             <mxPoint x="630" y="270" as="targetPoint" />
@@ -472,17 +477,10 @@
             <mxPoint x="590" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ruxRNCLhquOL4VZM6oj1-8" value="The API checks if it has &lt;br&gt;Show 1 and updates cache &lt;br&gt;with the db response" style="endArrow=classic;startArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Y_DgpOGIuvlljpGqcfn1-1" target="ruxRNCLhquOL4VZM6oj1-2">
+        <mxCell id="ruxRNCLhquOL4VZM6oj1-8" value="The API checks if it has &lt;br&gt;Show 1 and in Memcached and finds it!" style="endArrow=classic;startArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Y_DgpOGIuvlljpGqcfn1-1" target="ruxRNCLhquOL4VZM6oj1-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="-630" as="sourcePoint" />
             <mxPoint x="453" y="-637" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ruxRNCLhquOL4VZM6oj1-9" value="For the Third request the API&lt;br&gt;&amp;nbsp;finds a cached response and serves that" style="endArrow=classic;startArrow=classic;html=1;entryX=0.128;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="Y_DgpOGIuvlljpGqcfn1-1" target="ruxRNCLhquOL4VZM6oj1-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="-520" as="sourcePoint" />
-            <mxPoint x="370" y="770" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -515,14 +513,14 @@
         <mxCell id="B0YiBpstM7cr6Cvw7ts--4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://static.javatpoint.com/tutorial/memcached/images/memcached-tutorial.png;" vertex="1" parent="B0YiBpstM7cr6Cvw7ts--1">
           <mxGeometry x="464.88" y="-638.5" width="125" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="B0YiBpstM7cr6Cvw7ts--5" value="There&#39;s no Fresh version of Show 1 &lt;br&gt;so the request gets sent to origin &lt;br&gt;but the CDN POP will have a fresh&lt;br&gt;&amp;nbsp;copy for the next close client with its own TTL in cache-control&lt;br&gt;and last-modified-since" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" source="B0YiBpstM7cr6Cvw7ts--8" target="B0YiBpstM7cr6Cvw7ts--3">
+        <mxCell id="B0YiBpstM7cr6Cvw7ts--5" value="The CDN POP will now have a fresh&lt;br&gt;&amp;nbsp;copy for the next close client with its own TTL in cache-control&lt;br&gt;and last-modified-since headers" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" source="B0YiBpstM7cr6Cvw7ts--8" target="B0YiBpstM7cr6Cvw7ts--3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="856.5214025245441" y="560" as="sourcePoint" />
             <mxPoint x="630" y="270" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B0YiBpstM7cr6Cvw7ts--6" value="Third Client requests Podcast Show 1 in Llagos&lt;br&gt;" style="endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" source="B0YiBpstM7cr6Cvw7ts--13" target="B0YiBpstM7cr6Cvw7ts--2">
+        <mxCell id="B0YiBpstM7cr6Cvw7ts--6" value="" style="endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" source="B0YiBpstM7cr6Cvw7ts--13" target="B0YiBpstM7cr6Cvw7ts--2">
           <mxGeometry x="-0.0084" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="-980" as="sourcePoint" />
             <mxPoint x="740" y="390" as="targetPoint" />
@@ -535,23 +533,16 @@
         <mxCell id="B0YiBpstM7cr6Cvw7ts--8" value="CDN POP&lt;br&gt;Madagascar" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ensign-11/512/158_Ensign_Flag_Nation_madagascar-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="B0YiBpstM7cr6Cvw7ts--1">
           <mxGeometry x="360" y="-940" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="B0YiBpstM7cr6Cvw7ts--9" value="Fastly Routes the Third and fourth&lt;br&gt;request to a different&lt;br&gt;CDN POP that is close&lt;br&gt;to them" style="endArrow=classic;html=1;exitX=0.922;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0.95;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" source="B0YiBpstM7cr6Cvw7ts--2" target="B0YiBpstM7cr6Cvw7ts--8">
+        <mxCell id="B0YiBpstM7cr6Cvw7ts--9" value="" style="endArrow=classic;html=1;exitX=0.922;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0.95;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" source="B0YiBpstM7cr6Cvw7ts--2" target="B0YiBpstM7cr6Cvw7ts--8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="550" as="sourcePoint" />
             <mxPoint x="590" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B0YiBpstM7cr6Cvw7ts--10" value="The API checks if it has &lt;br&gt;Show 1 and updates cache &lt;br&gt;with the db response" style="endArrow=classic;startArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" target="B0YiBpstM7cr6Cvw7ts--4">
+        <mxCell id="B0YiBpstM7cr6Cvw7ts--10" value="" style="endArrow=classic;startArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" target="B0YiBpstM7cr6Cvw7ts--4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="-630" as="sourcePoint" />
             <mxPoint x="453" y="-637" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B0YiBpstM7cr6Cvw7ts--11" value="For the Third request the API&lt;br&gt;&amp;nbsp;finds a cached response and serves that" style="endArrow=classic;startArrow=classic;html=1;entryX=0.128;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shape=flexArrow;" edge="1" parent="B0YiBpstM7cr6Cvw7ts--1" target="B0YiBpstM7cr6Cvw7ts--4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="-520" as="sourcePoint" />
-            <mxPoint x="370" y="770" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -578,7 +569,7 @@
         <mxCell id="tO285gznU9Z_3y1_LZuW-2" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="tO285gznU9Z_3y1_LZuW-1" source="tO285gznU9Z_3y1_LZuW-4" target="tO285gznU9Z_3y1_LZuW-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tO285gznU9Z_3y1_LZuW-3" value="Fourth Request is&lt;br&gt;routed to the same POP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tO285gznU9Z_3y1_LZuW-2">
+        <mxCell id="tO285gznU9Z_3y1_LZuW-3" value="Fourth Request is&lt;br&gt;routed to the same POP&lt;br&gt;since there isn&#39;t one closer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tO285gznU9Z_3y1_LZuW-2">
           <mxGeometry x="-0.1697" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -589,10 +580,10 @@
         <mxCell id="tO285gznU9Z_3y1_LZuW-8" value="CDN POP&lt;br&gt;Madagascar" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ensign-11/512/158_Ensign_Flag_Nation_madagascar-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="tO285gznU9Z_3y1_LZuW-1">
           <mxGeometry x="510" y="310" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tO285gznU9Z_3y1_LZuW-9" value="Request 4&amp;nbsp;&lt;br&gt;CMS from Indonesia&lt;br&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="tO285gznU9Z_3y1_LZuW-1">
+        <mxCell id="tO285gznU9Z_3y1_LZuW-9" value="Anthony in Indonesia&amp;nbsp;&lt;br&gt;on a windows computer&lt;br&gt;using the Partner Portal&lt;br&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="tO285gznU9Z_3y1_LZuW-1">
           <mxGeometry x="50" y="78.13" width="111.11" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="tO285gznU9Z_3y1_LZuW-10" value="Fourth Client&lt;br&gt;request Podcast Show 1&lt;br&gt;in Indonesia&lt;br&gt;" style="endArrow=classic;html=1;exitX=1.008;exitY=0.119;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;" edge="1" parent="tO285gznU9Z_3y1_LZuW-1" source="tO285gznU9Z_3y1_LZuW-9" target="tO285gznU9Z_3y1_LZuW-4">
+        <mxCell id="tO285gznU9Z_3y1_LZuW-10" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.119;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;" edge="1" parent="tO285gznU9Z_3y1_LZuW-1" source="tO285gznU9Z_3y1_LZuW-9" target="tO285gznU9Z_3y1_LZuW-4">
           <mxGeometry x="0.0061" y="-3" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="-15" as="sourcePoint" />
             <mxPoint x="850" y="-65" as="targetPoint" />
@@ -613,28 +604,23 @@
         <mxCell id="VL3d3sPW6T1VsYkUOx8b-2" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="VL3d3sPW6T1VsYkUOx8b-1" source="VL3d3sPW6T1VsYkUOx8b-4" target="VL3d3sPW6T1VsYkUOx8b-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VL3d3sPW6T1VsYkUOx8b-3" value="Fourth Request is&lt;br&gt;routed to the same POP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VL3d3sPW6T1VsYkUOx8b-2">
-          <mxGeometry x="-0.1697" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VL3d3sPW6T1VsYkUOx8b-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fastly_logo.svg/1200px-Fastly_logo.svg.png;" vertex="1" parent="VL3d3sPW6T1VsYkUOx8b-1">
           <mxGeometry x="559.9999999999999" y="50" width="219.29" height="88.13" as="geometry" />
         </mxCell>
         <mxCell id="VL3d3sPW6T1VsYkUOx8b-8" value="CDN POP&lt;br&gt;Madagascar" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ensign-11/512/158_Ensign_Flag_Nation_madagascar-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="VL3d3sPW6T1VsYkUOx8b-1">
           <mxGeometry x="510" y="310" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VL3d3sPW6T1VsYkUOx8b-9" value="Request 4&amp;nbsp;&lt;br&gt;CMS from Indonesia&lt;br&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="VL3d3sPW6T1VsYkUOx8b-1">
+        <mxCell id="VL3d3sPW6T1VsYkUOx8b-9" value="Anthony notices a mistake in&amp;nbsp;&lt;br&gt;His Podcast!&lt;br&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="VL3d3sPW6T1VsYkUOx8b-1">
           <mxGeometry x="50" y="78.13" width="111.11" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VL3d3sPW6T1VsYkUOx8b-10" value="Fourth Client&lt;br&gt;request Podcast Show 1&lt;br&gt;in Indonesia&lt;br&gt;" style="endArrow=classic;html=1;exitX=1.008;exitY=0.119;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;" edge="1" parent="VL3d3sPW6T1VsYkUOx8b-1" source="VL3d3sPW6T1VsYkUOx8b-9" target="VL3d3sPW6T1VsYkUOx8b-4">
+        <mxCell id="VL3d3sPW6T1VsYkUOx8b-10" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.119;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;shape=flexArrow;" edge="1" parent="VL3d3sPW6T1VsYkUOx8b-1" source="VL3d3sPW6T1VsYkUOx8b-9" target="VL3d3sPW6T1VsYkUOx8b-4">
           <mxGeometry x="0.0061" y="-3" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="-15" as="sourcePoint" />
             <mxPoint x="850" y="-65" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VL3d3sPW6T1VsYkUOx8b-11" value="The Client is served&lt;br&gt;Show 1 from the&amp;nbsp;&lt;br&gt;Madagascar CDN POP" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.999;entryY=0.739;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="VL3d3sPW6T1VsYkUOx8b-1" source="VL3d3sPW6T1VsYkUOx8b-8" target="VL3d3sPW6T1VsYkUOx8b-9">
+        <mxCell id="VL3d3sPW6T1VsYkUOx8b-11" value="The Client is served&lt;br&gt;Show 1 from the&amp;nbsp;&lt;br&gt;Madagascar CDN POP&lt;br&gt;from Dami&#39;s request." style="shape=flexArrow;endArrow=classic;html=1;entryX=0.999;entryY=0.739;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="VL3d3sPW6T1VsYkUOx8b-1" source="VL3d3sPW6T1VsYkUOx8b-8" target="VL3d3sPW6T1VsYkUOx8b-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="758.34" y="350" as="sourcePoint" />
             <mxPoint x="808.34" y="300" as="targetPoint" />
@@ -646,6 +632,9 @@
         <mxCell id="VL3d3sPW6T1VsYkUOx8b-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-indonesia2x.png" vertex="1" parent="VL3d3sPW6T1VsYkUOx8b-1">
           <mxGeometry x="333" y="120" width="92" height="92" as="geometry" />
         </mxCell>
+        <mxCell id="IMmQm2qRE80DlZRa6nel-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/the-weather-is-nice-today/64/weather_48-128.png" vertex="1" parent="VL3d3sPW6T1VsYkUOx8b-1">
+          <mxGeometry x="41.56" y="190" width="128" height="128" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -656,11 +645,6 @@
         <mxCell id="HVCHwQ_u3top9TQQTNEI-1" parent="HVCHwQ_u3top9TQQTNEI-0" />
         <mxCell id="HVCHwQ_u3top9TQQTNEI-2" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="HVCHwQ_u3top9TQQTNEI-1" source="HVCHwQ_u3top9TQQTNEI-4" target="HVCHwQ_u3top9TQQTNEI-8">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HVCHwQ_u3top9TQQTNEI-3" value="Fourth Request is&lt;br&gt;routed to the same POP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HVCHwQ_u3top9TQQTNEI-2">
-          <mxGeometry x="-0.1697" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HVCHwQ_u3top9TQQTNEI-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fastly_logo.svg/1200px-Fastly_logo.svg.png;" vertex="1" parent="HVCHwQ_u3top9TQQTNEI-1">
           <mxGeometry x="559.9999999999999" y="50" width="219.29" height="88.13" as="geometry" />
@@ -680,10 +664,10 @@
         <mxCell id="HVCHwQ_u3top9TQQTNEI-8" value="CDN POP&lt;br&gt;Madagascar" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ensign-11/512/158_Ensign_Flag_Nation_madagascar-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="HVCHwQ_u3top9TQQTNEI-1">
           <mxGeometry x="510" y="310" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="HVCHwQ_u3top9TQQTNEI-9" value="Request 4&amp;nbsp;&lt;br&gt;CMS from Indonesia&lt;br&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="HVCHwQ_u3top9TQQTNEI-1">
+        <mxCell id="HVCHwQ_u3top9TQQTNEI-9" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="HVCHwQ_u3top9TQQTNEI-1">
           <mxGeometry x="50" y="78.13" width="111.11" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HVCHwQ_u3top9TQQTNEI-12" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HVCHwQ_u3top9TQQTNEI-1" source="HVCHwQ_u3top9TQQTNEI-9" target="HVCHwQ_u3top9TQQTNEI-4">
+        <mxCell id="HVCHwQ_u3top9TQQTNEI-12" value="Anthony corrects the mistake&lt;br&gt;and make a put request to Show 1" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HVCHwQ_u3top9TQQTNEI-1" source="HVCHwQ_u3top9TQQTNEI-9" target="HVCHwQ_u3top9TQQTNEI-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="117.75" y="200" as="sourcePoint" />
             <mxPoint x="117.75" y="602" as="targetPoint" />
@@ -750,7 +734,7 @@
         <mxCell id="tDvV0jzNv5FRACc-hMNc-20" value="CDN POP&lt;br&gt;Madagascar" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ensign-11/512/158_Ensign_Flag_Nation_madagascar-128.png;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="ejXV9XevIOgDf9-aNMME-1">
           <mxGeometry x="670" y="350" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="tDvV0jzNv5FRACc-hMNc-21" value="Request 4&amp;nbsp;&lt;br&gt;CMS from Indonesia&lt;br&gt;" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="ejXV9XevIOgDf9-aNMME-1">
+        <mxCell id="tDvV0jzNv5FRACc-hMNc-21" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="ejXV9XevIOgDf9-aNMME-1">
           <mxGeometry x="60" y="88.13" width="111.11" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tDvV0jzNv5FRACc-hMNc-22" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ejXV9XevIOgDf9-aNMME-1" source="tDvV0jzNv5FRACc-hMNc-21" target="tDvV0jzNv5FRACc-hMNc-15">
@@ -784,7 +768,7 @@
       <root>
         <mxCell id="tyfbonSAUgI32mM68ieu-0" />
         <mxCell id="tyfbonSAUgI32mM68ieu-1" parent="tyfbonSAUgI32mM68ieu-0" />
-        <mxCell id="tyfbonSAUgI32mM68ieu-2" value="Request 6&lt;br&gt;Oklahoma" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="tyfbonSAUgI32mM68ieu-1">
+        <mxCell id="tyfbonSAUgI32mM68ieu-2" value="Bryan&#39;s Iphone in&amp;nbsp;&lt;br&gt;Oklahoma again" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="tyfbonSAUgI32mM68ieu-1">
           <mxGeometry x="40" y="-1040" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tyfbonSAUgI32mM68ieu-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fastly_logo.svg/1200px-Fastly_logo.svg.png;" vertex="1" parent="tyfbonSAUgI32mM68ieu-1">
@@ -799,7 +783,7 @@
             <mxPoint x="590" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tyfbonSAUgI32mM68ieu-6" value="The CDN has no newer version&lt;br&gt;and returns status 304&amp;nbsp;&lt;br&gt;The client uses its cached version&lt;br&gt;since the TTL has not expired." style="shape=flexArrow;endArrow=classic;html=1;exitX=-0.012;exitY=0.338;exitDx=0;exitDy=0;entryX=0.888;entryY=1.013;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="tyfbonSAUgI32mM68ieu-1" source="tyfbonSAUgI32mM68ieu-4" target="tyfbonSAUgI32mM68ieu-2">
+        <mxCell id="tyfbonSAUgI32mM68ieu-6" value="The CDN compares the last-modified&lt;br&gt;and if-modified-since headers&lt;br&gt;and returns status 304 since&amp;nbsp;&lt;br&gt;the TTL set by the cache-control header&amp;nbsp;&lt;br&gt;has not elapse.&lt;br&gt;The client uses its cached version&lt;br&gt;with the unfortunate mistake Anthony fixed&lt;br&gt;on the other side of the world.." style="shape=flexArrow;endArrow=classic;html=1;exitX=-0.012;exitY=0.338;exitDx=0;exitDy=0;entryX=0.888;entryY=1.013;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="tyfbonSAUgI32mM68ieu-1" source="tyfbonSAUgI32mM68ieu-4" target="tyfbonSAUgI32mM68ieu-2">
           <mxGeometry x="0.0459" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="460" as="sourcePoint" />
             <mxPoint x="70" y="120" as="targetPoint" />
@@ -807,7 +791,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tyfbonSAUgI32mM68ieu-7" value="First Client Requests Podcast Show 1 again in Oklahoma, &lt;br&gt;this time the client has an if-modified-since in its request header" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1.013;exitY=0.125;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;exitPerimeter=0;" edge="1" parent="tyfbonSAUgI32mM68ieu-1" source="tyfbonSAUgI32mM68ieu-2" target="tyfbonSAUgI32mM68ieu-3">
+        <mxCell id="tyfbonSAUgI32mM68ieu-7" value="He Requests Podcast Show 1 again in Oklahoma, &lt;br&gt;this time the client has an if-modified-since in its request header" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1.013;exitY=0.125;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;shape=flexArrow;exitPerimeter=0;" edge="1" parent="tyfbonSAUgI32mM68ieu-1" source="tyfbonSAUgI32mM68ieu-2" target="tyfbonSAUgI32mM68ieu-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="330" as="sourcePoint" />
             <mxPoint x="600" y="280" as="targetPoint" />
