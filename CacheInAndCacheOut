@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T14:29:51.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="CZUkixanub77Df7ua-ld" version="14.9.6" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-08-20T14:50:38.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="umx-DRDm-QalbRgdoie_" version="14.9.6" type="github" pages="23">
   <diagram id="xrjBieCE7osNKbM0K89_" name="Page-22">
-    <mxGraphModel dx="1186" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="1941" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LVJB0u5pDSDCvpZgO6ll-0" />
         <mxCell id="LVJB0u5pDSDCvpZgO6ll-1" parent="LVJB0u5pDSDCvpZgO6ll-0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="49.999999999999886" y="-1070" width="219.29" height="88.13" as="geometry" />
         </mxCell>
         <mxCell id="Hp1MCLFlVEblJ4swDktq-0" value="Fastly is our edge cloud platform that routes all ingress &lt;br&gt;to its geographically close CDN POP.&lt;br&gt;Content Delivery Network Point of Presence.&lt;br&gt;Every YouVersion API has a terraform file with its fastly configuration in the terraform project." style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="LVJB0u5pDSDCvpZgO6ll-1">
-          <mxGeometry x="310" y="-1055.93" width="510" height="60" as="geometry" />
+          <mxGeometry x="313" y="-1061" width="510" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hALNWl--5zhEnGpbFWge-0" value="TTL is short for Time To Live. &lt;br&gt;For podcasts it will be a week probably" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=15;" vertex="1" parent="LVJB0u5pDSDCvpZgO6ll-1">
           <mxGeometry x="40" y="-350" width="270" height="40" as="geometry" />
